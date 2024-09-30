@@ -405,7 +405,7 @@ justify-content: space-between;
    @media  (max-width:786px){
       .banner{
         width:786px;
-        padding: 10px 5%;
+    
       }
 .banner p{
     font-size: 0.7rem;
