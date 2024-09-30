@@ -19,7 +19,7 @@
     background-image: url(./images/gallery6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: grey; 
+     
     animation:change 12s infinite ease-in-out;
 
 }
