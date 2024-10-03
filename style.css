@@ -399,69 +399,8 @@ justify-content: space-between;
 
 
 
-.footer{
-    
-    width: 100%;
-    position: absolute;
-    
-    background:linear-gradient(to right,#00093c,#2d0b00);
-    color:#fff;
-padding:50px 0 20px;
-    font-size: 13px;
-    line-height: 20px;
-   border-top-left-radius: 125px;
 
-
-   }
-   .row{
-    display: flex;
-    width: 90%;
-    margin: auto;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    justify-content: space-between;
-    
-   }
-   .col{
-    flex-basis: 25%;
-
-   }
-   .col1{
-    margin-left: 10px;
-   }
-   col h2{
-    width: fit-content;
-    margin-bottom:40px;
-    position: relative;
-    
-
-
-   }
-   .logo3{
-    color: white;
-    background-color: black;
-    width: 70px;
-justify-content: left;
-    
-    
-   }
-   .mar{
-    margin-bottom: 20px
-   }
-
-   ul li{
-    list-style: none;
-    margin-left: 10px;
-    
-
-   }
-
-   ul li a{
-    text-decoration: none;
-    color: white;
-
-
-   }
+   
 
 
 
